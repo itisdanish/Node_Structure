@@ -6,7 +6,7 @@
 ## Table of Contents 📋
 
 - [Project Structure](#project-structure) 🏗️
-  - [Project Root](#project-root) 📁
+  - [Project Root 📁](#project-root)
   - [Source Code Directory](#source-code-directory) 📂
   - [Entry Point File](#entry-point-file) 🚀
   - [Route Handlers and Controllers](#route-handlers-and-controllers) 🌐
