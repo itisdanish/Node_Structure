@@ -1,6 +1,6 @@
 # Node_Structure 🚀
 
-![image](https://github.com/itisdanish/Node_Structure/assets/65316644/28703617-0cfd-48d6-abe6-ab93bb584e6f)
+![Uploading image.png…]()
 
 
 ## Table of Contents 📋
