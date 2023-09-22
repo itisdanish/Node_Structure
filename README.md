@@ -45,13 +45,13 @@ For web applications, route handlers and controllers are often organized separat
 
 
 ```
-    src/
-    ├── routes/
-    │ ├── userRoutes.js
-    │ ├── productRoutes.js
-    ├── controllers/
-    │ ├── userController.js
-    │ ├── productController.js
+   src/
+├── routes/
+│ ├── <span style="color: #E67E22;">userRoutes.js</span>
+│ ├── <span style="color: #E67E22;">productRoutes.js</span>
+├── controllers/
+│ ├── <span style="color: #E67E22;">userController.js</span>
+│ ├── <span style="color: #E67E22;">productController.js</span>
 ```
 
 
