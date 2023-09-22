@@ -1,6 +1,24 @@
 # Node_Structure
 
-# Your Project Name
+## Table of Contents
+
+- [Project Structure](#project-structure)
+  - [Project Root](#project-root)
+  - [Source Code Directory](#source-code-directory)
+  - [Entry Point File](#entry-point-file)
+  - [Route Handlers and Controllers](#route-handlers-and-controllers)
+  - [Middleware](#middleware)
+  - [Models and Database](#models-and-database)
+  - [Views (For Web Apps)](#views-for-web-apps)
+  - [Public Assets (For Web Apps)](#public-assets-for-web-apps)
+  - [Tests](#tests)
+  - [Configuration and Environment Variables](#configuration-and-environment-variables)
+  - [Dependencies](#dependencies)
+  - [Other Files and Directories](#other-files-and-directories)
+- [Getting Started](#getting-started)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## Project Structure
 
@@ -19,6 +37,8 @@ The starting point of your application is typically an entry point file named "i
 ### Route Handlers and Controllers
 
 For web applications, route handlers and controllers are often organized separately. Route handlers manage routing and HTTP request/response logic, while controllers handle the business logic. Here's an example directory structure:
+
+
 
 ```
     src/
