@@ -99,11 +99,12 @@ Static assets like CSS, JavaScript, and images are often placed in a "public" di
 ```
 public/
 ├── css/
-│ ├── style.css
+│   ├── style.css
 ├── js/
-│ ├── script.js
+│   ├── script.js
 ├── img/
-│ ├── logo.png
+│   ├── logo.png
+
 ```
 
 ### Tests 🧪
