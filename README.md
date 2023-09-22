@@ -1,5 +1,8 @@
 # Node_Structure 🚀
 
+![image](https://github.com/itisdanish/Node_Structure/assets/65316644/28703617-0cfd-48d6-abe6-ab93bb584e6f)
+
+
 ## Table of Contents 📋
 
 - [Project Structure](#project-structure) 🏗️
@@ -24,15 +27,15 @@
 
 ### Project Root 📁
 
-At the root of your project, you'll find configuration files, such as <span style="color: #E74C3C;">`package.json`</span> and <span style="color: #E74C3C;">`README.md`</span>.
+At the root of your project, you'll find configuration files, such as `package.json` and `README.md`.
 
 ### Source Code Directory 📂
 
-Your application's source code is organized in a directory named <span style="color: #3498DB;">"src"</span> or <span style="color: #3498DB;">"app"</span>. This is where the core logic of your application resides.
+Your application's source code is organized in a directory named "src" or "app." This is where the core logic of your application resides.
 
 ### Entry Point File 🚀
 
-The starting point of your application is typically an entry point file named <span style="color: #E74C3C;">"index.js"</span> or <span style="color: #E74C3C;">"app.js"</span>. It's where your application begins its execution.
+The starting point of your application is typically an entry point file named "index.js" or "app.js." It's where your application begins its execution.
 
 ### Route Handlers and Controllers 🌐
 
@@ -41,17 +44,14 @@ For web applications, route handlers and controllers are often organized separat
 
 
 
-
-
-
 ```
-   src/
-├── routes/
-│ ├── <span style="color: #E67E22;">userRoutes.js</span>
-│ ├── <span style="color: #E67E22;">productRoutes.js</span>
-├── controllers/
-│ ├── <span style="color: #E67E22;">userController.js</span>
-│ ├── <span style="color: #E67E22;">productController.js</span>
+  src/
+  ├── routes/
+  │ ├── userRoutes.js
+  │ ├── productRoutes.js
+  ├── controllers/
+  │ ├── userController.js
+  │ ├── productController.js
 ```
 
 
