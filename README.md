@@ -20,3 +20,11 @@ The starting point of your application is typically an entry point file named "i
 
 For web applications, route handlers and controllers are often organized separately. Route handlers manage routing and HTTP request/response logic, while controllers handle the business logic. Here's an example directory structure:
 
+```
+src/
+├── routes/
+│ ├── userRoutes.js
+│ ├── productRoutes.js
+├── controllers/
+│ ├── userController.js
+│ ├── productController.js
